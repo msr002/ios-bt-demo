@@ -5,6 +5,8 @@
 
 在 iOS 开发中，CoreBluetooth 框架允许应用程序与支持蓝牙低能耗（BLE）的设备进行通信。为了更高效地管理蓝牙连接状态，iOS 提供了 `CBCentralManagerDelegate` 中的 `registerForConnectionEvents(options:)` 方法和对应的代理方法 `centralManager(_:connectionEventDidOccur:for:)` 来监听蓝牙设备的连接事件。对应底层描述是 GATT OVER EDR 连接业务，简称 ATT 连接业务。
 
+本 Demo 来自 Apple 的：[using-core-bluetooth-classic](https://developer.apple.com/documentation/corebluetooth/using-core-bluetooth-classic)
+
 本指南将详细介绍如何使用这些 API，并结合一个示例代码来展示其应用。
 
 ## 准备工作
