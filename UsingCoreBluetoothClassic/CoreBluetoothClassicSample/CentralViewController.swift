@@ -90,12 +90,12 @@ extension CentralViewController: CBCentralManagerDelegate {
     }
 
     func centralManager(_ central: CBCentralManager, connectionEventDidOccur event: CBConnectionEvent, for peripheral: CBPeripheral) {
-        os_log("connectionEventDidOccur for peripheral: %@", peripheral)
         switch event {
         case .peerConnected:
+            os_log("peerConnected for peripheral: %@", peripheral)
             cbPeripherals.append(peripheral)
         case .peerDisconnected:
-            os_log("Peer %@ disconnected!", peripheral)
+            os_log("peerDisconnected for peripheral:%@", peripheral)
         default:
             if let idx = cbPeripherals.firstIndex(where: { $0 === peripheral }) {
                 cbPeripherals.remove(at: idx)
