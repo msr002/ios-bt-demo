@@ -4,7 +4,7 @@
 
 **A GATT over BR/EDR device connection sample based on the CoreBluetooth framework, demonstrating how to communicate with Bluetooth devices via the GATT protocol on iOS.**
 
-[中文](./README.md) · [English](./README_en.md) · [Documentation Center](https://doc.zh-jieli.com/Apps/iOS/ota/zh-cn/master/Development/Content/gatt_over_edr_desc.html#gatt-over-edr) · [Version History](#10-version-history) · [Report Issues](https://gitee.com/Jieli-Tech/ios-bt-demo/issues)
+[中文](./README.md) · [English](./README_en.md) · [Documentation Center](https://doc.zh-jieli.com/Apps/iOS/ota/zh-cn/master/Development/Content/gatt_over_edr_desc.html#gatt-over-edr) · [Version History](#10-version-history) · [Report Issues](https://github.com/Jieli-Tech/ios-bt-demo/issues)
 
 </div>
 
@@ -322,15 +322,15 @@ Enter keywords (such as `peripheral`, `Received`, `Error`) in the Xcode Console 
 
 | Platform | Link | Status |
 |------|------|------|
-| **Gitee** | [JieLi-Tech](https://gitee.com/Jieli-Tech) | ✅ Active |
-| **Issue Tracking** | [Submit Issue](https://gitee.com/Jieli-Tech/ios-bt-demo/issues) | ✅ Open |
+| **Gitee** | [JieLi-Tech](https://github.com/Jieli-Tech) | ✅ Active |
+| **Issue Tracking** | [Submit Issue](https://github.com/Jieli-Tech/ios-bt-demo/issues) | ✅ Open |
 
 ### Resources
 
 | Resource | Link |
 |------|------|
 | 📖 **Online Documentation Center** | [https://doc.zh-jieli.com/vue](https://doc.zh-jieli.com/vue/#/home) |
-| 🐛 **Issue Tracking** | [Gitee Issues](https://gitee.com/Jieli-Tech/ios-bt-demo/issues) |
+| 🐛 **Issue Tracking** | [Gitee Issues](https://github.com/Jieli-Tech/ios-bt-demo/issues) |
 
 ---
 

@@ -4,7 +4,7 @@
 
 **基于 CoreBluetooth 框架的 GATT over BR/EDR 设备连接示例，演示如何在 iOS 端通过 GATT 协议与蓝牙设备进行数据通讯。**
 
-[中文](./README.md) · [English](./README_en.md) · [文档中心](https://doc.zh-jieli.com/Apps/iOS/ota/zh-cn/master/Development/Content/gatt_over_edr_desc.html#gatt-over-edr) · [版本历史](#十版本历史) · [报告问题](https://gitee.com/Jieli-Tech/ios-bt-demo/issues)
+[中文](./README.md) · [English](./README_en.md) · [文档中心](https://doc.zh-jieli.com/Apps/iOS/ota/zh-cn/master/Development/Content/gatt_over_edr_desc.html#gatt-over-edr) · [版本历史](#十版本历史) · [报告问题](https://github.com/Jieli-Tech/ios-bt-demo/issues)
 
 </div>
 
@@ -323,15 +323,15 @@ os_log("Received data: %@", receivedText)
 
 | 平台 | 群号/链接 | 状态 |
 |------|-----------|------|
-| **Gitee** | [JieLi-Tech](https://gitee.com/Jieli-Tech) | ✅ 活跃 |
-| **问题反馈** | [提交 Issue](https://gitee.com/Jieli-Tech/ios-bt-demo/issues) | ✅ 开放 |
+| **Gitee** | [JieLi-Tech](https://github.com/Jieli-Tech) | ✅ 活跃 |
+| **问题反馈** | [提交 Issue](https://github.com/Jieli-Tech/ios-bt-demo/issues) | ✅ 开放 |
 
 ### 资源链接
 
 | 资源 | 链接 |
 |------|------|
 | 📖 **在线文档中心** | [https://doc.zh-jieli.com/vue](https://doc.zh-jieli.com/vue/#/home) |
-| 🐛 **问题反馈** | [Gitee Issues](https://gitee.com/Jieli-Tech/ios-bt-demo/issues) |
+| 🐛 **问题反馈** | [Gitee Issues](https://github.com/Jieli-Tech/ios-bt-demo/issues) |
 
 ---
 

@@ -1,4 +1,4 @@
-[tag download]:https://gitee.com/Jieli-Tech/ios-bt-demo/tags
+[tag download]:https://github.com/Jieli-Tech/ios-bt-demo/tags
 [tag_badgen]:https://img.shields.io/badge/Tag-v1.0.0-informational?style=plastic&logo=iOS&labelColor=ffffff&logoColor=blue
 
 # iOS-BT-Demo  [![tag][tag_badgen]][tag download]
@@ -11,7 +11,7 @@
 [Xcode](https://img.shields.io/badge/Xcode-14.0+-orange.svg)
 [License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
-[中文](./README.md) · [English](./README_EN.md) · [文档中心](https://doc.zh-jieli.com/Apps/iOS/ota/zh-cn/master/Development/Content/gatt_over_edr_desc.html#gatt-over-edr) · [版本历史](#七版本历史) · [报告问题](https://gitee.com/Jieli-Tech/ios-bt-demo/issues)
+[中文](./README.md) · [English](./README_EN.md) · [文档中心](https://doc.zh-jieli.com/Apps/iOS/ota/zh-cn/master/Development/Content/gatt_over_edr_desc.html#gatt-over-edr) · [版本历史](#七版本历史) · [报告问题](https://github.com/Jieli-Tech/ios-bt-demo/issues)
 
 </div>
 
@@ -65,7 +65,7 @@
 ### 3.1 克隆仓库
 
 ```bash
-git clone https://gitee.com/Jieli-Tech/ios-bt-demo.git
+git clone https://github.com/Jieli-Tech/ios-bt-demo.git
 cd ios-bt-demo
 ```
 
@@ -100,7 +100,7 @@ ios-bt-demo/
 
 
 
-* [UsingCoreBluetoothClassic](https://gitee.com/Jieli-Tech/ios-bt-demo/tree/main/UsingCoreBluetoothClassic) --- GATT Over BR/EDR 连接示例
+* [UsingCoreBluetoothClassic](https://github.com/Jieli-Tech/ios-bt-demo/tree/main/UsingCoreBluetoothClassic) --- GATT Over BR/EDR 连接示例
 
 
 
@@ -128,15 +128,15 @@ ios-bt-demo/
 
 | 平台 | 群号/链接 | 状态 |
 |------|-----------|------|
-| **GitHub** | [Jieli-Tech](https://gitee.com/Jieli-Tech) | ✅ 活跃 |
-| **问题反馈** | [提交 Issue](https://gitee.com/Jieli-Tech/ios-bt-demo/issues) | ✅ 开放 |
+| **GitHub** | [Jieli-Tech](https://github.com/Jieli-Tech) | ✅ 活跃 |
+| **问题反馈** | [提交 Issue](https://github.com/Jieli-Tech/ios-bt-demo/issues) | ✅ 开放 |
 
 ### 资源链接
 
 | 资源 | 链接 |
 |------|------|
 | 📖 **在线文档中心** | [https://doc.zh-jieli.com/vue](https://doc.zh-jieli.com/vue/#/home) |
-| 🐛 **问题反馈** | [GitHub Issues](https://gitee.com/Jieli-Tech/ios-bt-demo/issues) |
+| 🐛 **问题反馈** | [GitHub Issues](https://github.com/Jieli-Tech/ios-bt-demo/issues) |
 
 ---
 

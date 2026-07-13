@@ -1,4 +1,4 @@
-[tag download]:https://gitee.com/Jieli-Tech/ios-bt-demo/tags
+[tag download]:https://github.com/Jieli-Tech/ios-bt-demo/tags
 [tag_badgen]:https://img.shields.io/badge/Tag-v1.0.0-informational?style=plastic&logo=iOS&labelColor=ffffff&logoColor=blue
 
 # iOS-BT-Demo  [![tag][tag_badgen]][tag download]
@@ -11,7 +11,7 @@
 [Xcode](https://img.shields.io/badge/Xcode-14.0+-orange.svg)
 [License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
-[中文](./README.md) · [English](./README_EN.md) · [Documentation](https://doc.zh-jieli.com/Apps/iOS/ota/zh-cn/master/Development/Content/gatt_over_edr_desc.html#gatt-over-edr) · [Version History](#7-version-history) · [Report Issue](https://gitee.com/Jieli-Tech/ios-bt-demo/issues)
+[中文](./README.md) · [English](./README_EN.md) · [Documentation](https://doc.zh-jieli.com/Apps/iOS/ota/zh-cn/master/Development/Content/gatt_over_edr_desc.html#gatt-over-edr) · [Version History](#7-version-history) · [Report Issue](https://github.com/Jieli-Tech/ios-bt-demo/issues)
 
 </div>
 
@@ -65,7 +65,7 @@ This repository includes the following use cases:
 ### 3.1 Clone Repository
 
 ```bash
-git clone https://gitee.com/Jieli-Tech/ios-bt-demo.git
+git clone https://github.com/Jieli-Tech/ios-bt-demo.git
 cd ios-bt-demo
 ```
 
@@ -100,7 +100,7 @@ iOS-BT-Demo/
 
 
 
-* [UsingCoreBluetoothClassic](https://gitee.com/Jieli-Tech/ios-bt-demo/tree/main/UsingCoreBluetoothClassic) --- GATT Over BR/EDR connection example
+* [UsingCoreBluetoothClassic](https://github.com/Jieli-Tech/ios-bt-demo/tree/main/UsingCoreBluetoothClassic) --- GATT Over BR/EDR connection example
 
 
 
@@ -128,15 +128,15 @@ iOS-BT-Demo/
 
 | Platform | Group/Link | Status |
 |------|-----------|------|
-| **GitHub** | [Jieli-Tech](https://gitee.com/Jieli-Tech) | ✅ Active |
-| **Issue Feedback** | [Submit Issue](https://gitee.com/Jieli-Tech/ios-bt-demo/issues) | ✅ Open |
+| **GitHub** | [Jieli-Tech](https://github.com/Jieli-Tech) | ✅ Active |
+| **Issue Feedback** | [Submit Issue](https://github.com/Jieli-Tech/ios-bt-demo/issues) | ✅ Open |
 
 ### Resource Links
 
 | Resource | Link |
 |------|------|
 | 📖 **Online Documentation** | [https://doc.zh-jieli.com/vue](https://doc.zh-jieli.com/vue/#/home) |
-| 🐛 **Issue Feedback** | [GitHub Issues](https://gitee.com/Jieli-Tech/ios-bt-demo/issues) |
+| 🐛 **Issue Feedback** | [GitHub Issues](https://github.com/Jieli-Tech/ios-bt-demo/issues) |
 
 ---
 
