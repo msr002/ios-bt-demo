@@ -70,8 +70,8 @@
 ### 3.1 克隆仓库
 
 ```bash
-git clone <仓库地址>
-cd UsingCoreBluetoothClassic
+git clone https://github.com/Jieli-Tech/ios-bt-demo.git
+cd ios-bt-demo/UsingCoreBluetoothClassic
 ```
 
 ### 3.2 导入工程
